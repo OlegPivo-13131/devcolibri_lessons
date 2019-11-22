@@ -11,7 +11,6 @@
 
 		<h1>
 			text 1 123 654 79
-			wrong text
 		</h1>
 
 		<h2>
